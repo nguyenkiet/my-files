@@ -1,5 +1,3 @@
-# Some useful files
-
 #Useful links:
 * Setup files:
 
